@@ -33,7 +33,7 @@ local Config = {
     InstagramURL    = "https://www.instagram.com/oyb0i/",
     
     ShowYoutube     = true,
-    YoutubeURL      = "https://www.youtube.com/channel/UCAlXXV1Hbvf7WbfXARuVtiQ",
+    YoutubeURL      = "https://telmodorestudio.blogspot.com/",
 
     -- [5] File System
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
