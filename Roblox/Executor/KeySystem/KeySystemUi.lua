@@ -16,11 +16,11 @@
 ]]
 local Config = {
     -- [1] PlatoBoost Settings
-    ServiceId       = 0, -- Your PlatoBoost Service ID
-    PlatoSecret     = "Token", -- Your PlatoBoost Secret Key
+    ServiceId       = 22942, -- Your PlatoBoost Service ID
+    PlatoSecret     = "51f2be8e-5631-40f6-8d7d-f79ee8f1abdd", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
-    Secret          = "Code", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
+    Secret          = "1234", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
     MainScriptURL   = "Link", -- The raw URL of your main script
