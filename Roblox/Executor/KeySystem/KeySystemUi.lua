@@ -23,16 +23,16 @@ local Config = {
     Secret          = "1234", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = https://github.com/dcded1aa-15af-4e78-bfc3-979bc88c5992", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/Slsllslss/OYB0/refs/heads/patch-2/Roblox/Executor/KeySystem/SecretCode.lua", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
-    ShowDiscord     = false,
+    ShowDiscord     = true,
     DiscordURL      = "https://discord.gg/kT55J724BK",
     
-    ShowInstagram   = false,
+    ShowInstagram   = true,
     InstagramURL    = "https://www.instagram.com/oyb0i/",
     
-    ShowYoutube     = false,
+    ShowYoutube     = true,
     YoutubeURL      = "https://www.youtube.com/channel/UCAlXXV1Hbvf7WbfXARuVtiQ",
 
     -- [5] File System
